@@ -1,7 +1,5 @@
 # PP26_2
 
-# PP26_2
-
 ## Descrição
 
 Calculadora desenvolvida em Java, possuindo as quatro operações matemáticas básicas:
